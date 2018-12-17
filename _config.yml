@@ -1,16 +1,37 @@
+
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+
 # Site settings
-title: An amazing book store
-email: pete@pete.com
-description: "Bla Bla Bla Bla"
-baseurl: ""
-url: "http://localhost:4000"
-github_username:
+title: QA Playground
+subtitle: "A free HTML5 agency template"
+url: "http://javier.pedreira.me/qa_playground/" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/qa_playground"
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-include: ['_pages']
-kramdown:
-  input: GFM
 
-theme: jekyll-theme-minimal
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
