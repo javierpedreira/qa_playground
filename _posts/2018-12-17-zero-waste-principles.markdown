@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Zero waste principles"
 date:   2018-12-17 09:51:53
 categories: jekyll update
 ---
