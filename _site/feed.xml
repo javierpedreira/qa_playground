@@ -5,8 +5,8 @@
     <description>Bla Bla Bla Bla</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Dec 2018 10:03:48 +0100</pubDate>
-    <lastBuildDate>Mon, 17 Dec 2018 10:03:48 +0100</lastBuildDate>
+    <pubDate>Mon, 17 Dec 2018 11:28:45 +0100</pubDate>
+    <lastBuildDate>Mon, 17 Dec 2018 11:28:45 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -64,7 +64,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>The greatness of good breakfasts</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!&lt;br /&gt;
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
@@ -80,8 +80,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Mon, 17 Dec 2018 10:51:53 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2018/12/17/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2018/12/17/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/jekyll/update/2018/12/17/good-breakfast/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2018/12/17/good-breakfast/</guid>
         
         
         <category>jekyll</category>
