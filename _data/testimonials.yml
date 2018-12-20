@@ -1,16 +1,12 @@
 - name: Rose Ray
-  title: CEO-Themefisher
+  title: CEO-ASCool Company
   testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
+- name: Laura Amelie LASLEY
+  title: CTO-ASCool Company
   testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
+  image: img/item-img2.jpg
 - name: Rose Ray jr.
-  title: CEO-Themefisher
+  title: Ascool company Tech lead
   testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
   image: img/item-img1.jpg
